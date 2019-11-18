@@ -1,0 +1,64 @@
+[
+  {
+    "name": "shoot",
+    "description": "Make a video for it, or about it.",
+    "descriptors": [
+      "film",
+      "movie",
+      "video",
+      "motion picture"
+    ],
+    "templates":[
+      "Shoot a *descriptor* about a *noun* that *verbed* a *mood* *occupation*.",
+      "Shoot a *descriptor* for a *occupation* that likes to *verb* *adj* *noun*s.",
+      "Shoot a *descriptor* about a *noun* *verbing* a *adj* *noun*."
+    ]
+  },
+  {
+    "name": "design",
+    "description": "Just design it. No need to execute.",
+    "descriptors": [
+      "on paper",
+      "in 3D",
+      "on your computer",
+      "in a new design tool"
+    ],
+    "templates":[
+      "Design a *noun* *descriptor* to *verb* a *adj* *noun*.",
+      "Design a *noun* *descriptor* for a *verbing* *noun*.",
+      "Design a *verb* *descriptor* to *verb* a *verbed* *noun*.",
+      "Design a *noun* *descriptor* for a *mood* *occupation*."
+    ]
+  },
+  {
+    "name": "make",
+    "description": "Design and build it. Or just haphazardly build it. Whatever.",
+    "descriptors": [
+      "wood",
+      "plastic",
+      "fabric",
+      "new material"
+    ],
+    "templates":[
+      "Make a new way to *verb* a *noun*.",
+      "Make a *noun* out of *descriptor* that will *verb* a *adj* *occupation*.",
+      "Make something out of *descriptor* for a *occupation* *verbing* a *adj* *occupation*.",
+      "Make something out of *descriptor* to help a *occupation* *verb*."
+    ]
+  },
+  {
+    "name": "compose",
+    "description": "Make a song for it, or about it.",
+    "descriptors": [
+      "score",
+      "song",
+      "track",
+      "banger"
+    ],
+    "templates":[
+      "Compose a *descriptor* about a *noun* for a *verbing* *mood* *occupation*.",
+      "Compose a *descriptor* about a *noun* *verbing* a *mood* *occupation*.",
+      "Compose a *descriptor* about *noun*s for a *verbed* *adj* *occupation*."
+    ]
+  }
+]

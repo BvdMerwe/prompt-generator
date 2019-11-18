@@ -1,0 +1,31 @@
+.homescreen {
+  grid-column-start: 2;
+
+  font-size: 2.8em;
+}
+
+select {
+  padding: 1em;
+  background-color: #000;
+  color: #fff;
+  font-weight: bolder;
+  font-size: 0.6em;
+  outline: none !important;
+  border: 2px #fff solid;
+  
+}
+
+option {
+  &:hover {
+    color: #000;
+    background-color: #fff;
+  }
+}
+button {
+  padding: 1em;
+  background: #000;
+  border: 2px #fff solid;
+  color: #fff;
+  font-size: 0.6em;
+  font-weight: bolder;
+}

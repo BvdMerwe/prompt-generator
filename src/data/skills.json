@@ -1,0 +1,55 @@
+[
+  {
+    "name": "shoot",
+    "description": "Make a video for it, or about it.",
+    "descriptors": [
+      "film",
+      "movie",
+      "video",
+      "motion picture"
+    ],
+    "templates":[
+      "Shoot a <descriptor> about a <noun> <verb>ing a <adjective> <noun>.",
+      "Shoot a <descriptor> about a <noun> <verb>ing a <adjective> <noun>."
+    ]
+  },
+  {
+    "name": "design",
+    "description": "Just design it. No need to execute.",
+    "descriptors": [
+      "on paper",
+      "in 3D",
+      "on your computer",
+      "in a new design tool"
+    ],
+    "templates":[
+      "Shoot a <descriptor> about a <noun> <verb>ing a <adjective> <noun>.",
+    ]
+  },
+  {
+    "name": "make",
+    "description": "Design and build it. Or just haphazardly build it. Whatever.",
+    "descriptors": [
+      "wood",
+      "plastic",
+      "fabric",
+      "new material"
+    ],
+    "templates":[
+      "Shoot a <descriptor> about a <noun> <verb>ing a <adjective> <noun>.",
+    ]
+  },
+  {
+    "name": "compose",
+    "description": "Make a song for it, or about it.",
+    "descriptors": [
+      "score",
+      "song",
+      "track",
+      "banger"
+    ],
+    "templates":[
+      "Shoot a <descriptor> about a <noun> <verb>ing a <adjective> <noun>.",
+    ]
+  }
+]

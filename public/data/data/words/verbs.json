@@ -1,0 +1,3170 @@
+{
+    "description": "A list of English verbs.",
+    "verbs": [
+        {
+            "continuous": "accepting",
+            "present": "accept",
+            "past": "accepted"
+        },
+        {
+            "continuous": "adding",
+            "present": "add",
+            "past": "added"
+        },
+        {
+            "continuous": "admiring",
+            "present": "admire",
+            "past": "admired"
+        },
+        {
+            "continuous": "admiting",
+            "present": "admit",
+            "past": "admitted"
+        },
+        {
+            "continuous": "advising",
+            "present": "advise",
+            "past": "advised"
+        },
+        {
+            "continuous": "affording",
+            "present": "afford",
+            "past": "afforded"
+        },
+        {
+            "continuous": "agree-ing",
+            "present": "agree",
+            "past": "agreed"
+        },
+        {
+            "continuous": "alerting",
+            "present": "alert",
+            "past": "alerted"
+        },
+        {
+            "continuous": "allowing",
+            "present": "allow",
+            "past": "allowed"
+        },
+        {
+            "continuous": "amusing",
+            "present": "amuse",
+            "past": "amused"
+        },
+        {
+            "continuous": "analysing",
+            "present": "analyse",
+            "past": "analysed"
+        },
+        {
+            "continuous": "announcing",
+            "present": "announce",
+            "past": "announced"
+        },
+        {
+            "continuous": "annoying",
+            "present": "annoy",
+            "past": "annoyed"
+        },
+        {
+            "continuous": "answering",
+            "present": "answer",
+            "past": "answered"
+        },
+        {
+            "continuous": "apologising",
+            "present": "apologise",
+            "past": "apologised"
+        },
+        {
+            "continuous": "appearing",
+            "present": "appear",
+            "past": "appeared"
+        },
+        {
+            "continuous": "applauding",
+            "present": "applaud",
+            "past": "applauded"
+        },
+        {
+            "continuous": "appreciating",
+            "present": "appreciate",
+            "past": "appreciated"
+        },
+        {
+            "continuous": "approving",
+            "present": "approve",
+            "past": "approved"
+        },
+        {
+            "continuous": "arguing",
+            "present": "argue",
+            "past": "argued"
+        },
+        {
+            "continuous": "arranging",
+            "present": "arrange",
+            "past": "arranged"
+        },
+        {
+            "continuous": "arresting",
+            "present": "arrest",
+            "past": "arrested"
+        },
+        {
+            "continuous": "arriving",
+            "present": "arrive",
+            "past": "arrived"
+        },
+        {
+            "continuous": "asking",
+            "present": "ask",
+            "past": "asked"
+        },
+        {
+            "continuous": "attaching",
+            "present": "attach",
+            "past": "attached"
+        },
+        {
+            "continuous": "attacking",
+            "present": "attack",
+            "past": "attacked"
+        },
+        {
+            "continuous": "attempting",
+            "present": "attempt",
+            "past": "attempted"
+        },
+        {
+            "continuous": "attending",
+            "present": "attend",
+            "past": "attended"
+        },
+        {
+            "continuous": "attracting",
+            "present": "attract",
+            "past": "attracted"
+        },
+        {
+            "continuous": "avoiding",
+            "present": "avoid",
+            "past": "avoided"
+        },
+        {
+            "continuous": "backing",
+            "present": "back",
+            "past": "backed"
+        },
+        {
+            "continuous": "baking",
+            "present": "bake",
+            "past": "baked"
+        },
+        {
+            "continuous": "balancing",
+            "present": "balance",
+            "past": "balanced"
+        },
+        {
+            "continuous": "banning",
+            "present": "ban",
+            "past": "banned"
+        },
+        {
+            "continuous": "banging",
+            "present": "bang",
+            "past": "banged"
+        },
+        {
+            "continuous": "baring",
+            "present": "bare",
+            "past": "bared"
+        },
+        {
+            "continuous": "bating",
+            "present": "bat",
+            "past": "batted"
+        },
+        {
+            "continuous": "bathing",
+            "present": "bathe",
+            "past": "bathed"
+        },
+        {
+            "continuous": "battling",
+            "present": "battle",
+            "past": "battled"
+        },
+        {
+            "continuous": "beaming",
+            "present": "beam",
+            "past": "beamed"
+        },
+        {
+            "continuous": "beging",
+            "present": "beg",
+            "past": "begged"
+        },
+        {
+            "continuous": "behaving",
+            "present": "behave",
+            "past": "behaved"
+        },
+        {
+            "continuous": "belonging",
+            "present": "belong",
+            "past": "belonged"
+        },
+        {
+            "continuous": "bleaching",
+            "present": "bleach",
+            "past": "bleached"
+        },
+        {
+            "continuous": "blessing",
+            "present": "bless",
+            "past": "blessed"
+        },
+        {
+            "continuous": "blinding",
+            "present": "blind",
+            "past": "blinded"
+        },
+        {
+            "continuous": "blinking",
+            "present": "blink",
+            "past": "blinked"
+        },
+        {
+            "continuous": "bloting",
+            "present": "blot",
+            "past": "blotted"
+        },
+        {
+            "continuous": "blushing",
+            "present": "blush",
+            "past": "blushed"
+        },
+        {
+            "continuous": "boasting",
+            "present": "boast",
+            "past": "boasted"
+        },
+        {
+            "continuous": "boiling",
+            "present": "boil",
+            "past": "boiled"
+        },
+        {
+            "continuous": "bolting",
+            "present": "bolt",
+            "past": "bolted"
+        },
+        {
+            "continuous": "bombing",
+            "present": "bomb",
+            "past": "bombed"
+        },
+        {
+            "continuous": "booking",
+            "present": "book",
+            "past": "booked"
+        },
+        {
+            "continuous": "boring",
+            "present": "bore",
+            "past": "bored"
+        },
+        {
+            "continuous": "borrowing",
+            "present": "borrow",
+            "past": "borrowed"
+        },
+        {
+            "continuous": "bouncing",
+            "present": "bounce",
+            "past": "bounced"
+        },
+        {
+            "continuous": "bowing",
+            "present": "bow",
+            "past": "bowed"
+        },
+        {
+            "continuous": "boxing",
+            "present": "box",
+            "past": "boxed"
+        },
+        {
+            "continuous": "braking",
+            "present": "brake",
+            "past": "braked"
+        },
+        {
+            "continuous": "branching",
+            "present": "branch",
+            "past": "branched"
+        },
+        {
+            "continuous": "breathing",
+            "present": "breathe",
+            "past": "breathed"
+        },
+        {
+            "continuous": "bruising",
+            "present": "bruise",
+            "past": "bruised"
+        },
+        {
+            "continuous": "brushing",
+            "present": "brush",
+            "past": "brushed"
+        },
+        {
+            "continuous": "bubbling",
+            "present": "bubble",
+            "past": "bubbled"
+        },
+        {
+            "continuous": "bumping",
+            "present": "bump",
+            "past": "bumped"
+        },
+        {
+            "continuous": "burning",
+            "present": "burn",
+            "past": "burned"
+        },
+        {
+            "continuous": "burying",
+            "present": "bury",
+            "past": "buried"
+        },
+        {
+            "continuous": "buzzing",
+            "present": "buzz",
+            "past": "buzzed"
+        },
+        {
+            "continuous": "calculating",
+            "present": "calculate",
+            "past": "calculated"
+        },
+        {
+            "continuous": "calling",
+            "present": "call",
+            "past": "called"
+        },
+        {
+            "continuous": "camping",
+            "present": "camp",
+            "past": "camped"
+        },
+        {
+            "continuous": "caring",
+            "present": "care",
+            "past": "cared"
+        },
+        {
+            "continuous": "carrying",
+            "present": "carry",
+            "past": "carried"
+        },
+        {
+            "continuous": "carving",
+            "present": "carve",
+            "past": "carved"
+        },
+        {
+            "continuous": "causing",
+            "present": "cause",
+            "past": "caused"
+        },
+        {
+            "continuous": "challenging",
+            "present": "challenge",
+            "past": "challenged"
+        },
+        {
+            "continuous": "changing",
+            "present": "change",
+            "past": "changed"
+        },
+        {
+            "continuous": "charging",
+            "present": "charge",
+            "past": "charged"
+        },
+        {
+            "continuous": "chasing",
+            "present": "chase",
+            "past": "chased"
+        },
+        {
+            "continuous": "cheating",
+            "present": "cheat",
+            "past": "cheated"
+        },
+        {
+            "continuous": "checking",
+            "present": "check",
+            "past": "checked"
+        },
+        {
+            "continuous": "cheering",
+            "present": "cheer",
+            "past": "cheered"
+        },
+        {
+            "continuous": "chewing",
+            "present": "chew",
+            "past": "chewed"
+        },
+        {
+            "continuous": "choking",
+            "present": "choke",
+            "past": "choked"
+        },
+        {
+            "continuous": "choping",
+            "present": "chop",
+            "past": "chopped"
+        },
+        {
+            "continuous": "claiming",
+            "present": "claim",
+            "past": "claimed"
+        },
+        {
+            "continuous": "claping",
+            "present": "clap",
+            "past": "clapped"
+        },
+        {
+            "continuous": "cleaning",
+            "present": "clean",
+            "past": "cleaned"
+        },
+        {
+            "continuous": "clearing",
+            "present": "clear",
+            "past": "cleared"
+        },
+        {
+            "continuous": "cliping",
+            "present": "clip",
+            "past": "clipped"
+        },
+        {
+            "continuous": "closing",
+            "present": "close",
+            "past": "closed"
+        },
+        {
+            "continuous": "coaching",
+            "present": "coach",
+            "past": "coached"
+        },
+        {
+            "continuous": "coiling",
+            "present": "coil",
+            "past": "coiled"
+        },
+        {
+            "continuous": "collecting",
+            "present": "collect",
+            "past": "collected"
+        },
+        {
+            "continuous": "colouring",
+            "present": "colour",
+            "past": "coloured"
+        },
+        {
+            "continuous": "combing",
+            "present": "comb",
+            "past": "combed"
+        },
+        {
+            "continuous": "commanding",
+            "present": "command",
+            "past": "commanded"
+        },
+        {
+            "continuous": "communicating",
+            "present": "communicate",
+            "past": "communicated"
+        },
+        {
+            "continuous": "comparing",
+            "present": "compare",
+            "past": "compared"
+        },
+        {
+            "continuous": "competing",
+            "present": "compete",
+            "past": "competed"
+        },
+        {
+            "continuous": "complaining",
+            "present": "complain",
+            "past": "complained"
+        },
+        {
+            "continuous": "completing",
+            "present": "complete",
+            "past": "completed"
+        },
+        {
+            "continuous": "concentrating",
+            "present": "concentrate",
+            "past": "concentrated"
+        },
+        {
+            "continuous": "concerning",
+            "present": "concern",
+            "past": "concerned"
+        },
+        {
+            "continuous": "confessing",
+            "present": "confess",
+            "past": "confessed"
+        },
+        {
+            "continuous": "confusing",
+            "present": "confuse",
+            "past": "confused"
+        },
+        {
+            "continuous": "connecting",
+            "present": "connect",
+            "past": "connected"
+        },
+        {
+            "continuous": "considering",
+            "present": "consider",
+            "past": "considered"
+        },
+        {
+            "continuous": "consisting",
+            "present": "consist",
+            "past": "consisted"
+        },
+        {
+            "continuous": "containing",
+            "present": "contain",
+            "past": "contained"
+        },
+        {
+            "continuous": "continuing",
+            "present": "continue",
+            "past": "continued"
+        },
+        {
+            "continuous": "copying",
+            "present": "copy",
+            "past": "copied"
+        },
+        {
+            "continuous": "correcting",
+            "present": "correct",
+            "past": "corrected"
+        },
+        {
+            "continuous": "coughing",
+            "present": "cough",
+            "past": "coughed"
+        },
+        {
+            "continuous": "counting",
+            "present": "count",
+            "past": "counted"
+        },
+        {
+            "continuous": "covering",
+            "present": "cover",
+            "past": "covered"
+        },
+        {
+            "continuous": "cracking",
+            "present": "crack",
+            "past": "cracked"
+        },
+        {
+            "continuous": "crashing",
+            "present": "crash",
+            "past": "crashed"
+        },
+        {
+            "continuous": "crawling",
+            "present": "crawl",
+            "past": "crawled"
+        },
+        {
+            "continuous": "crossing",
+            "present": "cross",
+            "past": "crossed"
+        },
+        {
+            "continuous": "crushing",
+            "present": "crush",
+            "past": "crushed"
+        },
+        {
+            "continuous": "crying",
+            "present": "cry",
+            "past": "cried"
+        },
+        {
+            "continuous": "curing",
+            "present": "cure",
+            "past": "cured"
+        },
+        {
+            "continuous": "curling",
+            "present": "curl",
+            "past": "curled"
+        },
+        {
+            "continuous": "curving",
+            "present": "curve",
+            "past": "curved"
+        },
+        {
+            "continuous": "cycling",
+            "present": "cycle",
+            "past": "cycled"
+        },
+        {
+            "continuous": "daming",
+            "present": "dam",
+            "past": "dammed"
+        },
+        {
+            "continuous": "damaging",
+            "present": "damage",
+            "past": "damaged"
+        },
+        {
+            "continuous": "dancing",
+            "present": "dance",
+            "past": "danced"
+        },
+        {
+            "continuous": "daring",
+            "present": "dare",
+            "past": "dared"
+        },
+        {
+            "continuous": "decaying",
+            "present": "decay",
+            "past": "decayed"
+        },
+        {
+            "continuous": "deciving",
+            "present": "decive",
+            "past": "decived"
+        },
+        {
+            "continuous": "deciding",
+            "present": "decide",
+            "past": "decided"
+        },
+        {
+            "continuous": "decorating",
+            "present": "decorate",
+            "past": "decorated"
+        },
+        {
+            "continuous": "delaying",
+            "present": "delay",
+            "past": "delayed"
+        },
+        {
+            "continuous": "delighting",
+            "present": "delight",
+            "past": "delighted"
+        },
+        {
+            "continuous": "delivering",
+            "present": "deliver",
+            "past": "delivered"
+        },
+        {
+            "continuous": "depending",
+            "present": "depend",
+            "past": "depended"
+        },
+        {
+            "continuous": "describing",
+            "present": "describe",
+            "past": "described"
+        },
+        {
+            "continuous": "deserting",
+            "present": "desert",
+            "past": "deserted"
+        },
+        {
+            "continuous": "deserving",
+            "present": "deserve",
+            "past": "deserved"
+        },
+        {
+            "continuous": "destroying",
+            "present": "destroy",
+            "past": "destroyed"
+        },
+        {
+            "continuous": "detecting",
+            "present": "detect",
+            "past": "detected"
+        },
+        {
+            "continuous": "developing",
+            "present": "develop",
+            "past": "developed"
+        },
+        {
+            "continuous": "disagree-ing",
+            "present": "disagree",
+            "past": "disagreed"
+        },
+        {
+            "continuous": "disappearing",
+            "present": "disappear",
+            "past": "disappeared"
+        },
+        {
+            "continuous": "disapproving",
+            "present": "disapprove",
+            "past": "disapproved"
+        },
+        {
+            "continuous": "disarming",
+            "present": "disarm",
+            "past": "disarmed"
+        },
+        {
+            "continuous": "discovering",
+            "present": "discover",
+            "past": "discovered"
+        },
+        {
+            "continuous": "disliking",
+            "present": "dislike",
+            "past": "disliked"
+        },
+        {
+            "continuous": "dividing",
+            "present": "divide",
+            "past": "divided"
+        },
+        {
+            "continuous": "doubling",
+            "present": "double",
+            "past": "doubled"
+        },
+        {
+            "continuous": "doubting",
+            "present": "doubt",
+            "past": "doubted"
+        },
+        {
+            "continuous": "draging",
+            "present": "drag",
+            "past": "dragged"
+        },
+        {
+            "continuous": "draining",
+            "present": "drain",
+            "past": "drained"
+        },
+        {
+            "continuous": "dreaming",
+            "present": "dream",
+            "past": "dreamed"
+        },
+        {
+            "continuous": "dressing",
+            "present": "dress",
+            "past": "dressed"
+        },
+        {
+            "continuous": "driping",
+            "present": "drip",
+            "past": "dripped"
+        },
+        {
+            "continuous": "droping",
+            "present": "drop",
+            "past": "dropped"
+        },
+        {
+            "continuous": "drowning",
+            "present": "drown",
+            "past": "drowned"
+        },
+        {
+            "continuous": "druming",
+            "present": "drum",
+            "past": "drummed"
+        },
+        {
+            "continuous": "drying",
+            "present": "dry",
+            "past": "dried"
+        },
+        {
+            "continuous": "dusting",
+            "present": "dust",
+            "past": "dusted"
+        },
+        {
+            "continuous": "earning",
+            "present": "earn",
+            "past": "earned"
+        },
+        {
+            "continuous": "educating",
+            "present": "educate",
+            "past": "educated"
+        },
+        {
+            "continuous": "embarrassing",
+            "present": "embarrass",
+            "past": "embarrassed"
+        },
+        {
+            "continuous": "employing",
+            "present": "employ",
+            "past": "employed"
+        },
+        {
+            "continuous": "emptying",
+            "present": "empty",
+            "past": "emptied"
+        },
+        {
+            "continuous": "encouraging",
+            "present": "encourage",
+            "past": "encouraged"
+        },
+        {
+            "continuous": "ending",
+            "present": "end",
+            "past": "ended"
+        },
+        {
+            "continuous": "enjoying",
+            "present": "enjoy",
+            "past": "enjoyed"
+        },
+        {
+            "continuous": "entering",
+            "present": "enter",
+            "past": "entered"
+        },
+        {
+            "continuous": "entertaining",
+            "present": "entertain",
+            "past": "entertained"
+        },
+        {
+            "continuous": "escaping",
+            "present": "escape",
+            "past": "escaped"
+        },
+        {
+            "continuous": "examining",
+            "present": "examine",
+            "past": "examined"
+        },
+        {
+            "continuous": "exciting",
+            "present": "excite",
+            "past": "excited"
+        },
+        {
+            "continuous": "excusing",
+            "present": "excuse",
+            "past": "excused"
+        },
+        {
+            "continuous": "exercising",
+            "present": "exercise",
+            "past": "exercised"
+        },
+        {
+            "continuous": "existing",
+            "present": "exist",
+            "past": "existed"
+        },
+        {
+            "continuous": "expanding",
+            "present": "expand",
+            "past": "expand"
+        },
+        {
+            "continuous": "expecting",
+            "present": "expect",
+            "past": "expected"
+        },
+        {
+            "continuous": "explaining",
+            "present": "explain",
+            "past": "explained"
+        },
+        {
+            "continuous": "exploding",
+            "present": "explode",
+            "past": "exploded"
+        },
+        {
+            "continuous": "extending",
+            "present": "extend",
+            "past": "extended"
+        },
+        {
+            "continuous": "facing",
+            "present": "face",
+            "past": "faced"
+        },
+        {
+            "continuous": "fading",
+            "present": "fade",
+            "past": "faded"
+        },
+        {
+            "continuous": "failing",
+            "present": "fail",
+            "past": "failed"
+        },
+        {
+            "continuous": "fancying",
+            "present": "fancy",
+            "past": "fancied"
+        },
+        {
+            "continuous": "fastening",
+            "present": "fasten",
+            "past": "fastened"
+        },
+        {
+            "continuous": "faxing",
+            "present": "fax",
+            "past": "faxed"
+        },
+        {
+            "continuous": "fearing",
+            "present": "fear",
+            "past": "feared"
+        },
+        {
+            "continuous": "fencing",
+            "present": "fence",
+            "past": "fenced"
+        },
+        {
+            "continuous": "fetching",
+            "present": "fetch",
+            "past": "fetched"
+        },
+        {
+            "continuous": "filing",
+            "present": "file",
+            "past": "filed"
+        },
+        {
+            "continuous": "filling",
+            "present": "fill",
+            "past": "filled"
+        },
+        {
+            "continuous": "filming",
+            "present": "film",
+            "past": "filmed"
+        },
+        {
+            "continuous": "firing",
+            "present": "fire",
+            "past": "fired"
+        },
+        {
+            "continuous": "fiting",
+            "present": "fit",
+            "past": "fitted"
+        },
+        {
+            "continuous": "fixing",
+            "present": "fix",
+            "past": "fixed"
+        },
+        {
+            "continuous": "flaping",
+            "present": "flap",
+            "past": "flapped"
+        },
+        {
+            "continuous": "flashing",
+            "present": "flash",
+            "past": "flashed"
+        },
+        {
+            "continuous": "floating",
+            "present": "float",
+            "past": "floated"
+        },
+        {
+            "continuous": "flooding",
+            "present": "flood",
+            "past": "flooded"
+        },
+        {
+            "continuous": "flowing",
+            "present": "flow",
+            "past": "flowed"
+        },
+        {
+            "continuous": "flowering",
+            "present": "flower",
+            "past": "flowered"
+        },
+        {
+            "continuous": "folding",
+            "present": "fold",
+            "past": "folded"
+        },
+        {
+            "continuous": "following",
+            "present": "follow",
+            "past": "followed"
+        },
+        {
+            "continuous": "fooling",
+            "present": "fool",
+            "past": "fooled"
+        },
+        {
+            "continuous": "forcing",
+            "present": "force",
+            "past": "forced"
+        },
+        {
+            "continuous": "forming",
+            "present": "form",
+            "past": "formed"
+        },
+        {
+            "continuous": "founding",
+            "present": "found",
+            "past": "founded"
+        },
+        {
+            "continuous": "framing",
+            "present": "frame",
+            "past": "framed"
+        },
+        {
+            "continuous": "frightening",
+            "present": "frighten",
+            "past": "frightened"
+        },
+        {
+            "continuous": "frying",
+            "present": "fry",
+            "past": "fried"
+        },
+        {
+            "continuous": "gathering",
+            "present": "gather",
+            "past": "gathered"
+        },
+        {
+            "continuous": "gazing",
+            "present": "gaze",
+            "past": "gazed"
+        },
+        {
+            "continuous": "glowing",
+            "present": "glow",
+            "past": "glowed"
+        },
+        {
+            "continuous": "gluing",
+            "present": "glue",
+            "past": "glued"
+        },
+        {
+            "continuous": "grabing",
+            "present": "grab",
+            "past": "grabbed"
+        },
+        {
+            "continuous": "grating",
+            "present": "grate",
+            "past": "grated"
+        },
+        {
+            "continuous": "greasing",
+            "present": "grease",
+            "past": "greased"
+        },
+        {
+            "continuous": "greeting",
+            "present": "greet",
+            "past": "greeted"
+        },
+        {
+            "continuous": "grinning",
+            "present": "grin",
+            "past": "grinned"
+        },
+        {
+            "continuous": "griping",
+            "present": "grip",
+            "past": "gripped"
+        },
+        {
+            "continuous": "groaning",
+            "present": "groan",
+            "past": "groaned"
+        },
+        {
+            "continuous": "guarantee-ing",
+            "present": "guarantee",
+            "past": "guaranteed"
+        },
+        {
+            "continuous": "guarding",
+            "present": "guard",
+            "past": "guarded"
+        },
+        {
+            "continuous": "guessing",
+            "present": "guess",
+            "past": "guessed"
+        },
+        {
+            "continuous": "guiding",
+            "present": "guide",
+            "past": "guided"
+        },
+        {
+            "continuous": "hammering",
+            "present": "hammer",
+            "past": "hammered"
+        },
+        {
+            "continuous": "handing",
+            "present": "hand",
+            "past": "handed"
+        },
+        {
+            "continuous": "handling",
+            "present": "handle",
+            "past": "handled"
+        },
+        {
+            "continuous": "hanging",
+            "present": "hang",
+            "past": "hung"
+        },
+        {
+            "continuous": "happening",
+            "present": "happen",
+            "past": "happened"
+        },
+        {
+            "continuous": "harassing",
+            "present": "harass",
+            "past": "harassed"
+        },
+        {
+            "continuous": "harming",
+            "present": "harm",
+            "past": "harmed"
+        },
+        {
+            "continuous": "hating",
+            "present": "hate",
+            "past": "hated"
+        },
+        {
+            "continuous": "haunting",
+            "present": "haunt",
+            "past": "haunted"
+        },
+        {
+            "continuous": "heading",
+            "present": "head",
+            "past": "headed"
+        },
+        {
+            "continuous": "healing",
+            "present": "heal",
+            "past": "healed"
+        },
+        {
+            "continuous": "heaping",
+            "present": "heap",
+            "past": "heaped"
+        },
+        {
+            "continuous": "heating",
+            "present": "heat",
+            "past": "heated"
+        },
+        {
+            "continuous": "helping",
+            "present": "help",
+            "past": "helped"
+        },
+        {
+            "continuous": "hooking",
+            "present": "hook",
+            "past": "hooked"
+        },
+        {
+            "continuous": "hoping",
+            "present": "hop",
+            "past": "hopped"
+        },
+        {
+            "continuous": "hoping",
+            "present": "hope",
+            "past": "hoped"
+        },
+        {
+            "continuous": "hovering",
+            "present": "hover",
+            "past": "hovered"
+        },
+        {
+            "continuous": "huging",
+            "present": "hug",
+            "past": "hugged"
+        },
+        {
+            "continuous": "huming",
+            "present": "hum",
+            "past": "hummed"
+        },
+        {
+            "continuous": "hunting",
+            "present": "hunt",
+            "past": "hunted"
+        },
+        {
+            "continuous": "hurrying",
+            "present": "hurry",
+            "past": "hurried"
+        },
+        {
+            "continuous": "identifying",
+            "present": "identify",
+            "past": "identified"
+        },
+        {
+            "continuous": "ignoring",
+            "present": "ignore",
+            "past": "ignored"
+        },
+        {
+            "continuous": "imagining",
+            "present": "imagine",
+            "past": "imagined"
+        },
+        {
+            "continuous": "impressing",
+            "present": "impress",
+            "past": "impressed"
+        },
+        {
+            "continuous": "improving",
+            "present": "improve",
+            "past": "improved"
+        },
+        {
+            "continuous": "including",
+            "present": "include",
+            "past": "included"
+        },
+        {
+            "continuous": "increasing",
+            "present": "increase",
+            "past": "increased"
+        },
+        {
+            "continuous": "influencing",
+            "present": "influence",
+            "past": "influenced"
+        },
+        {
+            "continuous": "informing",
+            "present": "inform",
+            "past": "informed"
+        },
+        {
+            "continuous": "injecting",
+            "present": "inject",
+            "past": "injected"
+        },
+        {
+            "continuous": "injuring",
+            "present": "injure",
+            "past": "injured"
+        },
+        {
+            "continuous": "instructing",
+            "present": "instruct",
+            "past": "instructed"
+        },
+        {
+            "continuous": "intending",
+            "present": "intend",
+            "past": "intended"
+        },
+        {
+            "continuous": "interesting",
+            "present": "interest",
+            "past": "interested"
+        },
+        {
+            "continuous": "interfering",
+            "present": "interfere",
+            "past": "interfered"
+        },
+        {
+            "continuous": "interrupting",
+            "present": "interrupt",
+            "past": "interrupted"
+        },
+        {
+            "continuous": "introducing",
+            "present": "introduce",
+            "past": "introduced"
+        },
+        {
+            "continuous": "inventing",
+            "present": "invent",
+            "past": "invented"
+        },
+        {
+            "continuous": "inviting",
+            "present": "invite",
+            "past": "invited"
+        },
+        {
+            "continuous": "irritating",
+            "present": "irritate",
+            "past": "irritated"
+        },
+        {
+            "continuous": "itching",
+            "present": "itch",
+            "past": "itched"
+        },
+        {
+            "continuous": "jailing",
+            "present": "jail",
+            "past": "jailed"
+        },
+        {
+            "continuous": "jaming",
+            "present": "jam",
+            "past": "jammed"
+        },
+        {
+            "continuous": "joging",
+            "present": "jog",
+            "past": "jogged"
+        },
+        {
+            "continuous": "joining",
+            "present": "join",
+            "past": "joined"
+        },
+        {
+            "continuous": "joking",
+            "present": "joke",
+            "past": "joked"
+        },
+        {
+            "continuous": "judging",
+            "present": "judge",
+            "past": "judged"
+        },
+        {
+            "continuous": "juggling",
+            "present": "juggle",
+            "past": "juggled"
+        },
+        {
+            "continuous": "jumping",
+            "present": "jump",
+            "past": "jumped"
+        },
+        {
+            "continuous": "kicking",
+            "present": "kick",
+            "past": "kicked"
+        },
+        {
+            "continuous": "killing",
+            "present": "kill",
+            "past": "killed"
+        },
+        {
+            "continuous": "kissing",
+            "present": "kiss",
+            "past": "kissed"
+        },
+        {
+            "continuous": "kneeling",
+            "present": "kneel",
+            "past": "knelt"
+        },
+        {
+            "continuous": "kniting",
+            "present": "knit",
+            "past": "knitted"
+        },
+        {
+            "continuous": "knocking",
+            "present": "knock",
+            "past": "knocked"
+        },
+        {
+            "continuous": "knoting",
+            "present": "knot",
+            "past": "knotted"
+        },
+        {
+            "continuous": "labeling",
+            "present": "label",
+            "past": "labelled"
+        },
+        {
+            "continuous": "landing",
+            "present": "land",
+            "past": "landed"
+        },
+        {
+            "continuous": "lasting",
+            "present": "last",
+            "past": "lasted"
+        },
+        {
+            "continuous": "laughing",
+            "present": "laugh",
+            "past": "laughed"
+        },
+        {
+            "continuous": "launching",
+            "present": "launch",
+            "past": "launched"
+        },
+        {
+            "continuous": "learning",
+            "present": "learn",
+            "past": "learned"
+        },
+        {
+            "continuous": "leveling",
+            "present": "level",
+            "past": "levelled"
+        },
+        {
+            "continuous": "licensing",
+            "present": "license",
+            "past": "licensed"
+        },
+        {
+            "continuous": "licking",
+            "present": "lick",
+            "past": "licked"
+        },
+        {
+            "continuous": "liing",
+            "present": "lie",
+            "past": "lied"
+        },
+        {
+            "continuous": "lightening",
+            "present": "lighten",
+            "past": "lightened"
+        },
+        {
+            "continuous": "liking",
+            "present": "like",
+            "past": "liked"
+        },
+        {
+            "continuous": "listing",
+            "present": "list",
+            "past": "listed"
+        },
+        {
+            "continuous": "listening",
+            "present": "listen",
+            "past": "listened"
+        },
+        {
+            "continuous": "living",
+            "present": "live",
+            "past": "lived"
+        },
+        {
+            "continuous": "loading",
+            "present": "load",
+            "past": "loaded"
+        },
+        {
+            "continuous": "locking",
+            "present": "lock",
+            "past": "locked"
+        },
+        {
+            "continuous": "longing",
+            "present": "long",
+            "past": "longed"
+        },
+        {
+            "continuous": "looking",
+            "present": "look",
+            "past": "look"
+        },
+        {
+            "continuous": "loving",
+            "present": "love",
+            "past": "loved"
+        },
+        {
+            "continuous": "manning",
+            "present": "man",
+            "past": "manned"
+        },
+        {
+            "continuous": "managing",
+            "present": "manage",
+            "past": "managed"
+        },
+        {
+            "continuous": "marching",
+            "present": "march",
+            "past": "marched"
+        },
+        {
+            "continuous": "marking",
+            "present": "mark",
+            "past": "marked"
+        },
+        {
+            "continuous": "marrying",
+            "present": "marry",
+            "past": "married"
+        },
+        {
+            "continuous": "matching",
+            "present": "match",
+            "past": "matched"
+        },
+        {
+            "continuous": "mating",
+            "present": "mate",
+            "past": "mated"
+        },
+        {
+            "continuous": "mattering",
+            "present": "matter",
+            "past": "mattered"
+        },
+        {
+            "continuous": "measuring",
+            "present": "measure",
+            "past": "measured"
+        },
+        {
+            "continuous": "meddling",
+            "present": "meddle",
+            "past": "meddled"
+        },
+        {
+            "continuous": "melting",
+            "present": "melt",
+            "past": "melted"
+        },
+        {
+            "continuous": "memorising",
+            "present": "memorise",
+            "past": "memorised"
+        },
+        {
+            "continuous": "mending",
+            "present": "mend",
+            "past": "mended"
+        },
+        {
+            "continuous": "messing",
+            "present": "mess up",
+            "past": "messed up"
+        },
+        {
+            "continuous": "milking",
+            "present": "milk",
+            "past": "milked"
+        },
+        {
+            "continuous": "mining",
+            "present": "mine",
+            "past": "mined"
+        },
+        {
+            "continuous": "missing",
+            "present": "miss",
+            "past": "missed"
+        },
+        {
+            "continuous": "mixing",
+            "present": "mix",
+            "past": "mixed"
+        },
+        {
+            "continuous": "moaning",
+            "present": "moan",
+            "past": "moaned"
+        },
+        {
+            "continuous": "mooring",
+            "present": "moor",
+            "past": "moored"
+        },
+        {
+            "continuous": "mourning",
+            "present": "mourn",
+            "past": "mourned"
+        },
+        {
+            "continuous": "moving",
+            "present": "move",
+            "past": "moved"
+        },
+        {
+            "continuous": "muddling",
+            "present": "muddle",
+            "past": "muddled"
+        },
+        {
+            "continuous": "muging",
+            "present": "mug",
+            "past": "mugged"
+        },
+        {
+            "continuous": "multiplying",
+            "present": "multiply",
+            "past": "multiplied"
+        },
+        {
+            "continuous": "murdering",
+            "present": "murder",
+            "past": "murdered"
+        },
+        {
+            "continuous": "nailing",
+            "present": "nail",
+            "past": "nailed"
+        },
+        {
+            "continuous": "naming",
+            "present": "name",
+            "past": "named"
+        },
+        {
+            "continuous": "needing",
+            "present": "need",
+            "past": "needed"
+        },
+        {
+            "continuous": "nesting",
+            "present": "nest",
+            "past": "nested"
+        },
+        {
+            "continuous": "noding",
+            "present": "nod",
+            "past": "nodded"
+        },
+        {
+            "continuous": "noting",
+            "present": "note",
+            "past": "noted"
+        },
+        {
+            "continuous": "noticing",
+            "present": "notice",
+            "past": "noticed"
+        },
+        {
+            "continuous": "numbering",
+            "present": "number",
+            "past": "numbered"
+        },
+        {
+            "continuous": "obeying",
+            "present": "obey",
+            "past": "obeyed"
+        },
+        {
+            "continuous": "objecting",
+            "present": "object",
+            "past": "objected"
+        },
+        {
+            "continuous": "observing",
+            "present": "observe",
+            "past": "observed"
+        },
+        {
+            "continuous": "obtaining",
+            "present": "obtain",
+            "past": "obtained"
+        },
+        {
+            "continuous": "occuring",
+            "present": "occur",
+            "past": "occurred"
+        },
+        {
+            "continuous": "offending",
+            "present": "offend",
+            "past": "offended"
+        },
+        {
+            "continuous": "offering",
+            "present": "offer",
+            "past": "offered"
+        },
+        {
+            "continuous": "opening",
+            "present": "open",
+            "past": "opened"
+        },
+        {
+            "continuous": "ordering",
+            "present": "order",
+            "past": "ordered"
+        },
+        {
+            "continuous": "overflowing",
+            "present": "overflow",
+            "past": "overflowed"
+        },
+        {
+            "continuous": "owing",
+            "present": "owe",
+            "past": "owed"
+        },
+        {
+            "continuous": "owning",
+            "present": "own",
+            "past": "owned"
+        },
+        {
+            "continuous": "packing",
+            "present": "pack",
+            "past": "packed"
+        },
+        {
+            "continuous": "paddling",
+            "present": "paddle",
+            "past": "paddled"
+        },
+        {
+            "continuous": "painting",
+            "present": "paint",
+            "past": "painted"
+        },
+        {
+            "continuous": "parking",
+            "present": "park",
+            "past": "parked"
+        },
+        {
+            "continuous": "parting",
+            "present": "part",
+            "past": "parted"
+        },
+        {
+            "continuous": "passing",
+            "present": "pass",
+            "past": "passed"
+        },
+        {
+            "continuous": "pasting",
+            "present": "paste",
+            "past": "pasted"
+        },
+        {
+            "continuous": "pating",
+            "present": "pat",
+            "past": "patted"
+        },
+        {
+            "continuous": "pausing",
+            "present": "pause",
+            "past": "paused"
+        },
+        {
+            "continuous": "pecking",
+            "present": "peck",
+            "past": "pecked"
+        },
+        {
+            "continuous": "pedaling",
+            "present": "pedal",
+            "past": "pedalled"
+        },
+        {
+            "continuous": "peeling",
+            "present": "peel",
+            "past": "peeled"
+        },
+        {
+            "continuous": "peeping",
+            "present": "peep",
+            "past": "peeped"
+        },
+        {
+            "continuous": "performing",
+            "present": "perform",
+            "past": "performed"
+        },
+        {
+            "continuous": "permiting",
+            "present": "permit",
+            "past": "permitted"
+        },
+        {
+            "continuous": "phoning",
+            "present": "phone",
+            "past": "phoned"
+        },
+        {
+            "continuous": "picking",
+            "present": "pick",
+            "past": "picked"
+        },
+        {
+            "continuous": "pinching",
+            "present": "pinch",
+            "past": "pinched"
+        },
+        {
+            "continuous": "pining",
+            "present": "pine",
+            "past": "pined"
+        },
+        {
+            "continuous": "placing",
+            "present": "place",
+            "past": "placed"
+        },
+        {
+            "continuous": "planning",
+            "present": "plan",
+            "past": "planned"
+        },
+        {
+            "continuous": "planting",
+            "present": "plant",
+            "past": "planted"
+        },
+        {
+            "continuous": "playing",
+            "present": "play",
+            "past": "played"
+        },
+        {
+            "continuous": "pleasing",
+            "present": "please",
+            "past": "pleased"
+        },
+        {
+            "continuous": "pluging",
+            "present": "plug",
+            "past": "plugged"
+        },
+        {
+            "continuous": "pointing",
+            "present": "point",
+            "past": "pointed"
+        },
+        {
+            "continuous": "poking",
+            "present": "poke",
+            "past": "poked"
+        },
+        {
+            "continuous": "polishing",
+            "present": "polish",
+            "past": "polished"
+        },
+        {
+            "continuous": "poping",
+            "present": "pop",
+            "past": "popped"
+        },
+        {
+            "continuous": "possessing",
+            "present": "possess",
+            "past": "possessed"
+        },
+        {
+            "continuous": "posting",
+            "present": "post",
+            "past": "posted"
+        },
+        {
+            "continuous": "pouring",
+            "present": "pour",
+            "past": "poured"
+        },
+        {
+            "continuous": "practising",
+            "present": "practise",
+            "past": "practised"
+        },
+        {
+            "continuous": "praying",
+            "present": "pray",
+            "past": "prayed"
+        },
+        {
+            "continuous": "preaching",
+            "present": "preach",
+            "past": "preached"
+        },
+        {
+            "continuous": "preceding",
+            "present": "precede",
+            "past": "preceded"
+        },
+        {
+            "continuous": "prefering",
+            "present": "prefer",
+            "past": "preferred"
+        },
+        {
+            "continuous": "preparing",
+            "present": "prepare",
+            "past": "prepared"
+        },
+        {
+            "continuous": "presenting",
+            "present": "present",
+            "past": "presented"
+        },
+        {
+            "continuous": "preserving",
+            "present": "preserve",
+            "past": "preserved"
+        },
+        {
+            "continuous": "pressing",
+            "present": "press",
+            "past": "pressed"
+        },
+        {
+            "continuous": "pretending",
+            "present": "pretend",
+            "past": "pretended"
+        },
+        {
+            "continuous": "preventing",
+            "present": "prevent",
+            "past": "prevented"
+        },
+        {
+            "continuous": "pricking",
+            "present": "prick",
+            "past": "pricked"
+        },
+        {
+            "continuous": "printing",
+            "present": "print",
+            "past": "printed"
+        },
+        {
+            "continuous": "producing",
+            "present": "produce",
+            "past": "produced"
+        },
+        {
+            "continuous": "programing",
+            "present": "program",
+            "past": "programmed"
+        },
+        {
+            "continuous": "promising",
+            "present": "promise",
+            "past": "promised"
+        },
+        {
+            "continuous": "protecting",
+            "present": "protect",
+            "past": "protected"
+        },
+        {
+            "continuous": "providing",
+            "present": "provide",
+            "past": "provided"
+        },
+        {
+            "continuous": "pulling",
+            "present": "pull",
+            "past": "pulled"
+        },
+        {
+            "continuous": "pumping",
+            "present": "pump",
+            "past": "pumped"
+        },
+        {
+            "continuous": "punching",
+            "present": "punch",
+            "past": "punched"
+        },
+        {
+            "continuous": "puncturing",
+            "present": "puncture",
+            "past": "punctured"
+        },
+        {
+            "continuous": "punishing",
+            "present": "punish",
+            "past": "punished"
+        },
+        {
+            "continuous": "pushing",
+            "present": "push",
+            "past": "pushed"
+        },
+        {
+            "continuous": "questioning",
+            "present": "question",
+            "past": "questioned"
+        },
+        {
+            "continuous": "queuing",
+            "present": "queue",
+            "past": "questioned"
+        },
+        {
+            "continuous": "racing",
+            "present": "race",
+            "past": "raced"
+        },
+        {
+            "continuous": "radiating",
+            "present": "radiate",
+            "past": "radiated"
+        },
+        {
+            "continuous": "raining",
+            "present": "rain",
+            "past": "rained"
+        },
+        {
+            "continuous": "raising",
+            "present": "raise",
+            "past": "raised"
+        },
+        {
+            "continuous": "reaching",
+            "present": "reach",
+            "past": "reached"
+        },
+        {
+            "continuous": "realising",
+            "present": "realise",
+            "past": "realised"
+        },
+        {
+            "continuous": "reciving",
+            "present": "recive",
+            "past": "recived"
+        },
+        {
+            "continuous": "recognising",
+            "present": "recognise",
+            "past": "recognised"
+        },
+        {
+            "continuous": "recording",
+            "present": "record",
+            "past": "recorded"
+        },
+        {
+            "continuous": "reducing",
+            "present": "reduce",
+            "past": "reduced"
+        },
+        {
+            "continuous": "reflecting",
+            "present": "reflect",
+            "past": "reflected"
+        },
+        {
+            "continuous": "refusing",
+            "present": "refuse",
+            "past": "refused"
+        },
+        {
+            "continuous": "regreting",
+            "present": "regret",
+            "past": "regretted"
+        },
+        {
+            "continuous": "rigning",
+            "present": "rign",
+            "past": "rigned"
+        },
+        {
+            "continuous": "rejecting",
+            "present": "reject",
+            "past": "rejected"
+        },
+        {
+            "continuous": "rejoicing",
+            "present": "rejoice",
+            "past": "rejoiced"
+        },
+        {
+            "continuous": "relaxing",
+            "present": "relax",
+            "past": "relaxed"
+        },
+        {
+            "continuous": "releasing",
+            "present": "release",
+            "past": "released"
+        },
+        {
+            "continuous": "relying",
+            "present": "rely",
+            "past": "relied"
+        },
+        {
+            "continuous": "remaining",
+            "present": "remain",
+            "past": "remained"
+        },
+        {
+            "continuous": "remembering",
+            "present": "remember",
+            "past": "remembered"
+        },
+        {
+            "continuous": "reminding",
+            "present": "remind",
+            "past": "reminded"
+        },
+        {
+            "continuous": "removing",
+            "present": "remove",
+            "past": "removed"
+        },
+        {
+            "continuous": "repairing",
+            "present": "repair",
+            "past": "repaired"
+        },
+        {
+            "continuous": "repeating",
+            "present": "repeat",
+            "past": "repeated"
+        },
+        {
+            "continuous": "replacing",
+            "present": "replace",
+            "past": "replaced"
+        },
+        {
+            "continuous": "replying",
+            "present": "reply",
+            "past": "replied"
+        },
+        {
+            "continuous": "reporting",
+            "present": "report",
+            "past": "reported"
+        },
+        {
+            "continuous": "reproducing",
+            "present": "reproduce",
+            "past": "reproduced"
+        },
+        {
+            "continuous": "requesting",
+            "present": "request",
+            "past": "requested"
+        },
+        {
+            "continuous": "rescuing",
+            "present": "rescue",
+            "past": "rescued"
+        },
+        {
+            "continuous": "retiring",
+            "present": "retire",
+            "past": "retired"
+        },
+        {
+            "continuous": "returning",
+            "present": "return",
+            "past": "returned"
+        },
+        {
+            "continuous": "rhyming",
+            "present": "rhyme",
+            "past": "rhyme"
+        },
+        {
+            "continuous": "rinsing",
+            "present": "rinse",
+            "past": "rinsed"
+        },
+        {
+            "continuous": "risking",
+            "present": "risk",
+            "past": "risked"
+        },
+        {
+            "continuous": "robing",
+            "present": "rob",
+            "past": "robbed"
+        },
+        {
+            "continuous": "rocking",
+            "present": "rock",
+            "past": "rocked"
+        },
+        {
+            "continuous": "rolling",
+            "present": "roll",
+            "past": "rolled"
+        },
+        {
+            "continuous": "roting",
+            "present": "rot",
+            "past": "rotted"
+        },
+        {
+            "continuous": "rubing",
+            "present": "rub",
+            "past": "rubbed"
+        },
+        {
+            "continuous": "ruining",
+            "present": "ruin",
+            "past": "ruined"
+        },
+        {
+            "continuous": "ruling",
+            "present": "rule",
+            "past": "ruled"
+        },
+        {
+            "continuous": "rushing",
+            "present": "rush",
+            "past": "rushed"
+        },
+        {
+            "continuous": "sacking",
+            "present": "sack",
+            "past": "sacked"
+        },
+        {
+            "continuous": "sailing",
+            "present": "sail",
+            "past": "sailed"
+        },
+        {
+            "continuous": "satisfying",
+            "present": "satisfy",
+            "past": "satisfied"
+        },
+        {
+            "continuous": "saving",
+            "present": "save",
+            "past": "saved"
+        },
+        {
+            "continuous": "sawing",
+            "present": "saw",
+            "past": "sawed"
+        },
+        {
+            "continuous": "scaring",
+            "present": "scare",
+            "past": "scared"
+        },
+        {
+            "continuous": "scattering",
+            "present": "scatter",
+            "past": "scattered"
+        },
+        {
+            "continuous": "scolding",
+            "present": "scold",
+            "past": "scolded"
+        },
+        {
+            "continuous": "scorching",
+            "present": "scorch",
+            "past": "scorched"
+        },
+        {
+            "continuous": "scraping",
+            "present": "scrape",
+            "past": "scraped"
+        },
+        {
+            "continuous": "scratching",
+            "present": "scratch",
+            "past": "scratched"
+        },
+        {
+            "continuous": "screaming",
+            "present": "scream",
+            "past": "screamed"
+        },
+        {
+            "continuous": "screwing",
+            "present": "screw",
+            "past": "screwed"
+        },
+        {
+            "continuous": "scribbling",
+            "present": "scribble",
+            "past": "scribbled"
+        },
+        {
+            "continuous": "scrubing",
+            "present": "scrub",
+            "past": "scrubbed"
+        },
+        {
+            "continuous": "sealing",
+            "present": "seal",
+            "past": "sealed"
+        },
+        {
+            "continuous": "searching",
+            "present": "search",
+            "past": "searched"
+        },
+        {
+            "continuous": "separating",
+            "present": "separate",
+            "past": "separate"
+        },
+        {
+            "continuous": "serving",
+            "present": "serve",
+            "past": "served"
+        },
+        {
+            "continuous": "settling",
+            "present": "settle",
+            "past": "settled"
+        },
+        {
+            "continuous": "shading",
+            "present": "shade",
+            "past": "shaded"
+        },
+        {
+            "continuous": "sharing",
+            "present": "share",
+            "past": "shared"
+        },
+        {
+            "continuous": "shaving",
+            "present": "shave",
+            "past": "shaved"
+        },
+        {
+            "continuous": "sheltering",
+            "present": "shelter",
+            "past": "sheltered"
+        },
+        {
+            "continuous": "shivering",
+            "present": "shiver",
+            "past": "shivered"
+        },
+        {
+            "continuous": "shocking",
+            "present": "shock",
+            "past": "shocked"
+        },
+        {
+            "continuous": "shoping",
+            "present": "shop",
+            "past": "shopped"
+        },
+        {
+            "continuous": "shruging",
+            "present": "shrug",
+            "past": "shrugged"
+        },
+        {
+            "continuous": "sighing",
+            "present": "sigh",
+            "past": "sighed"
+        },
+        {
+            "continuous": "signing",
+            "present": "sign",
+            "past": "signed"
+        },
+        {
+            "continuous": "signaling",
+            "present": "signal",
+            "past": "signalled"
+        },
+        {
+            "continuous": "sinning",
+            "present": "sin",
+            "past": "sinned"
+        },
+        {
+            "continuous": "siping",
+            "present": "sip",
+            "past": "sipped"
+        },
+        {
+            "continuous": "skiing",
+            "present": "ski",
+            "past": "skied"
+        },
+        {
+            "continuous": "skiping",
+            "present": "skip",
+            "past": "skipped"
+        },
+        {
+            "continuous": "slaping",
+            "present": "slap",
+            "past": "slapped"
+        },
+        {
+            "continuous": "sliping",
+            "present": "slip",
+            "past": "slipped"
+        },
+        {
+            "continuous": "slowing",
+            "present": "slow",
+            "past": "slowed"
+        },
+        {
+            "continuous": "smashing",
+            "present": "smash",
+            "past": "smashed"
+        },
+        {
+            "continuous": "smelling",
+            "present": "smell",
+            "past": "smelled"
+        },
+        {
+            "continuous": "smiling",
+            "present": "smile",
+            "past": "smiled"
+        },
+        {
+            "continuous": "smoking",
+            "present": "smoke",
+            "past": "smoked"
+        },
+        {
+            "continuous": "snatching",
+            "present": "snatch",
+            "past": "snatched"
+        },
+        {
+            "continuous": "sneezing",
+            "present": "sneeze",
+            "past": "sneezed"
+        },
+        {
+            "continuous": "sniffing",
+            "present": "sniff",
+            "past": "sniffed"
+        },
+        {
+            "continuous": "snoring",
+            "present": "snore",
+            "past": "snored"
+        },
+        {
+            "continuous": "snowing",
+            "present": "snow",
+            "past": "snowed"
+        },
+        {
+            "continuous": "soaking",
+            "present": "soak",
+            "past": "soaked"
+        },
+        {
+            "continuous": "soothing",
+            "present": "soothe",
+            "past": "soothed"
+        },
+        {
+            "continuous": "sounding",
+            "present": "sound",
+            "past": "sounded"
+        },
+        {
+            "continuous": "sparing",
+            "present": "spare",
+            "past": "spared"
+        },
+        {
+            "continuous": "sparking",
+            "present": "spark",
+            "past": "sparked"
+        },
+        {
+            "continuous": "sparkling",
+            "present": "sparkle",
+            "past": "sparkled"
+        },
+        {
+            "continuous": "spelling",
+            "present": "spell",
+            "past": "spelled"
+        },
+        {
+            "continuous": "spilling",
+            "present": "spill",
+            "past": "spilled"
+        },
+        {
+            "continuous": "spoiling",
+            "present": "spoil",
+            "past": "spoiled"
+        },
+        {
+            "continuous": "spoting",
+            "present": "spot",
+            "past": "spotted"
+        },
+        {
+            "continuous": "spraying",
+            "present": "spray",
+            "past": "sprayed"
+        },
+        {
+            "continuous": "sprouting",
+            "present": "sprout",
+            "past": "sprouted"
+        },
+        {
+            "continuous": "squashing",
+            "present": "squash",
+            "past": "squashed"
+        },
+        {
+            "continuous": "squeaking",
+            "present": "squeak",
+            "past": "squeaked"
+        },
+        {
+            "continuous": "squealing",
+            "present": "squeal",
+            "past": "squealed"
+        },
+        {
+            "continuous": "squeezing",
+            "present": "squeeze",
+            "past": "squeezed"
+        },
+        {
+            "continuous": "staining",
+            "present": "stain",
+            "past": "stained"
+        },
+        {
+            "continuous": "stamping",
+            "present": "stamp",
+            "past": "stamped"
+        },
+        {
+            "continuous": "staring",
+            "present": "stare",
+            "past": "stared"
+        },
+        {
+            "continuous": "starting",
+            "present": "start",
+            "past": "started"
+        },
+        {
+            "continuous": "staying",
+            "present": "stay",
+            "past": "stayed"
+        },
+        {
+            "continuous": "steering",
+            "present": "steer",
+            "past": "steered"
+        },
+        {
+            "continuous": "steping",
+            "present": "step",
+            "past": "stepped"
+        },
+        {
+            "continuous": "stiring",
+            "present": "stir",
+            "past": "stirred"
+        },
+        {
+            "continuous": "stitching",
+            "present": "stitch",
+            "past": "stitched"
+        },
+        {
+            "continuous": "stoping",
+            "present": "stop",
+            "past": "stopped"
+        },
+        {
+            "continuous": "storing",
+            "present": "store",
+            "past": "stored"
+        },
+        {
+            "continuous": "straping",
+            "present": "strap",
+            "past": "strapped"
+        },
+        {
+            "continuous": "strengthening",
+            "present": "strengthen",
+            "past": "strengthened"
+        },
+        {
+            "continuous": "stretching",
+            "present": "stretch",
+            "past": "stretched"
+        },
+        {
+            "continuous": "striping",
+            "present": "strip",
+            "past": "stripped"
+        },
+        {
+            "continuous": "stroking",
+            "present": "stroke",
+            "past": "stroked"
+        },
+        {
+            "continuous": "stuffing",
+            "present": "stuff",
+            "past": "stuffed"
+        },
+        {
+            "continuous": "subtracting",
+            "present": "subtract",
+            "past": "subtracted"
+        },
+        {
+            "continuous": "succeeding",
+            "present": "succeed",
+            "past": "succeeded"
+        },
+        {
+            "continuous": "sucking",
+            "present": "suck",
+            "past": "sucked"
+        },
+        {
+            "continuous": "suffering",
+            "present": "suffer",
+            "past": "suffered"
+        },
+        {
+            "continuous": "suggesting",
+            "present": "suggest",
+            "past": "suggested"
+        },
+        {
+            "continuous": "suiting",
+            "present": "suit",
+            "past": "suited"
+        },
+        {
+            "continuous": "supplying",
+            "present": "supply",
+            "past": "supplied"
+        },
+        {
+            "continuous": "supporting",
+            "present": "support",
+            "past": "supported"
+        },
+        {
+            "continuous": "supposing",
+            "present": "suppose",
+            "past": "supposed"
+        },
+        {
+            "continuous": "surprising",
+            "present": "surprise",
+            "past": "surprised"
+        },
+        {
+            "continuous": "surrounding",
+            "present": "surround",
+            "past": "surrounded"
+        },
+        {
+            "continuous": "suspecting",
+            "present": "suspect",
+            "past": "suspected"
+        },
+        {
+            "continuous": "suspending",
+            "present": "suspend",
+            "past": "suspended"
+        },
+        {
+            "continuous": "switching",
+            "present": "switch",
+            "past": "switched"
+        },
+        {
+            "continuous": "talking",
+            "present": "talk",
+            "past": "talked"
+        },
+        {
+            "continuous": "taming",
+            "present": "tame",
+            "past": "tamed"
+        },
+        {
+            "continuous": "taping",
+            "present": "tap",
+            "past": "tapped"
+        },
+        {
+            "continuous": "tasting",
+            "present": "taste",
+            "past": "tasted"
+        },
+        {
+            "continuous": "teasing",
+            "present": "tease",
+            "past": "teased"
+        },
+        {
+            "continuous": "telephoning",
+            "present": "telephone",
+            "past": "telephoned"
+        },
+        {
+            "continuous": "tempting",
+            "present": "tempt",
+            "past": "tempted"
+        },
+        {
+            "continuous": "terrifying",
+            "present": "terrify",
+            "past": "terrified"
+        },
+        {
+            "continuous": "testing",
+            "present": "test",
+            "past": "tested"
+        },
+        {
+            "continuous": "thanking",
+            "present": "thank",
+            "past": "thanked"
+        },
+        {
+            "continuous": "thawing",
+            "present": "thaw",
+            "past": "thawed"
+        },
+        {
+            "continuous": "ticking",
+            "present": "tick",
+            "past": "ticked"
+        },
+        {
+            "continuous": "tickling",
+            "present": "tickle",
+            "past": "tickled"
+        },
+        {
+            "continuous": "tiing",
+            "present": "tie",
+            "past": "tied"
+        },
+        {
+            "continuous": "timing",
+            "present": "time",
+            "past": "timed"
+        },
+        {
+            "continuous": "tiping",
+            "present": "tip",
+            "past": "tipped"
+        },
+        {
+            "continuous": "tiring",
+            "present": "tire",
+            "past": "tired"
+        },
+        {
+            "continuous": "touching",
+            "present": "touch",
+            "past": "touched"
+        },
+        {
+            "continuous": "touring",
+            "present": "tour",
+            "past": "toured"
+        },
+        {
+            "continuous": "towing",
+            "present": "tow",
+            "past": "towed"
+        },
+        {
+            "continuous": "tracing",
+            "present": "trace",
+            "past": "traced"
+        },
+        {
+            "continuous": "trading",
+            "present": "trade",
+            "past": "traded"
+        },
+        {
+            "continuous": "training",
+            "present": "train",
+            "past": "trained"
+        },
+        {
+            "continuous": "transporting",
+            "present": "transport",
+            "past": "transported"
+        },
+        {
+            "continuous": "traping",
+            "present": "trap",
+            "past": "trapped"
+        },
+        {
+            "continuous": "traveling",
+            "present": "travel",
+            "past": "travelled"
+        },
+        {
+            "continuous": "treating",
+            "present": "treat",
+            "past": "treated"
+        },
+        {
+            "continuous": "trembling",
+            "present": "tremble",
+            "past": "trembled"
+        },
+        {
+            "continuous": "tricking",
+            "present": "trick",
+            "past": "tricked"
+        },
+        {
+            "continuous": "triping",
+            "present": "trip",
+            "past": "tripped"
+        },
+        {
+            "continuous": "troting",
+            "present": "trot",
+            "past": "trotted"
+        },
+        {
+            "continuous": "troubling",
+            "present": "trouble",
+            "past": "troubled"
+        },
+        {
+            "continuous": "trusting",
+            "present": "trust",
+            "past": "trusted"
+        },
+        {
+            "continuous": "trying",
+            "present": "try",
+            "past": "tried"
+        },
+        {
+            "continuous": "tuging",
+            "present": "tug",
+            "past": "tugged"
+        },
+        {
+            "continuous": "tumbling",
+            "present": "tumble",
+            "past": "tumbled"
+        },
+        {
+            "continuous": "turning",
+            "present": "turn",
+            "past": "turned"
+        },
+        {
+            "continuous": "twisting",
+            "present": "twist",
+            "past": "twisted"
+        },
+        {
+            "continuous": "typing",
+            "present": "type",
+            "past": "typed"
+        },
+        {
+            "continuous": "undressing",
+            "present": "undress",
+            "past": "undressed"
+        },
+        {
+            "continuous": "unfastening",
+            "present": "unfasten",
+            "past": "unfastened"
+        },
+        {
+            "continuous": "uniting",
+            "present": "unite",
+            "past": "united"
+        },
+        {
+            "continuous": "unlocking",
+            "present": "unlock",
+            "past": "unlocked"
+        },
+        {
+            "continuous": "unpacking",
+            "present": "unpack",
+            "past": "unpacked"
+        },
+        {
+            "continuous": "untidying",
+            "present": "untidy",
+            "past": "untidied"
+        },
+        {
+            "continuous": "using",
+            "present": "use",
+            "past": "used"
+        },
+        {
+            "continuous": "vanishing",
+            "present": "vanish",
+            "past": "vanished"
+        },
+        {
+            "continuous": "visiting",
+            "present": "visit",
+            "past": "visited"
+        },
+        {
+            "continuous": "wailing",
+            "present": "wail",
+            "past": "wailed"
+        },
+        {
+            "continuous": "waiting",
+            "present": "wait",
+            "past": "waited"
+        },
+        {
+            "continuous": "walking",
+            "present": "walk",
+            "past": "walked"
+        },
+        {
+            "continuous": "wandering",
+            "present": "wander",
+            "past": "wandered"
+        },
+        {
+            "continuous": "wanting",
+            "present": "want",
+            "past": "wanted"
+        },
+        {
+            "continuous": "warming",
+            "present": "warm",
+            "past": "warmed"
+        },
+        {
+            "continuous": "warning",
+            "present": "warn",
+            "past": "warned"
+        },
+        {
+            "continuous": "washing",
+            "present": "wash",
+            "past": "washed"
+        },
+        {
+            "continuous": "wasting",
+            "present": "waste",
+            "past": "wasted"
+        },
+        {
+            "continuous": "watching",
+            "present": "watch",
+            "past": "watched"
+        },
+        {
+            "continuous": "watering",
+            "present": "water",
+            "past": "watered"
+        },
+        {
+            "continuous": "waving",
+            "present": "wave",
+            "past": "waved"
+        },
+        {
+            "continuous": "wighing",
+            "present": "wigh",
+            "past": "wighed"
+        },
+        {
+            "continuous": "welcoming",
+            "present": "welcome",
+            "past": "welcomed"
+        },
+        {
+            "continuous": "whining",
+            "present": "whine",
+            "past": "whined"
+        },
+        {
+            "continuous": "whiping",
+            "present": "whip",
+            "past": "whipped"
+        },
+        {
+            "continuous": "whirling",
+            "present": "whirl",
+            "past": "whirled"
+        },
+        {
+            "continuous": "whispering",
+            "present": "whisper",
+            "past": "whispered"
+        },
+        {
+            "continuous": "whistling",
+            "present": "whistle",
+            "past": "whistled"
+        },
+        {
+            "continuous": "winking",
+            "present": "wink",
+            "past": "winked"
+        },
+        {
+            "continuous": "wiping",
+            "present": "wipe",
+            "past": "wiped"
+        },
+        {
+            "continuous": "wishing",
+            "present": "wish",
+            "past": "wished"
+        },
+        {
+            "continuous": "wobbling",
+            "present": "wobble",
+            "past": "wobbled"
+        },
+        {
+            "continuous": "wondering",
+            "present": "wonder",
+            "past": "wondered"
+        },
+        {
+            "continuous": "working",
+            "present": "work",
+            "past": "worked"
+        },
+        {
+            "continuous": "worrying",
+            "present": "worry",
+            "past": "worried"
+        },
+        {
+            "continuous": "wraping",
+            "present": "wrap",
+            "past": "wrapped"
+        },
+        {
+            "continuous": "wrecking",
+            "present": "wreck",
+            "past": "wrecked"
+        },
+        {
+            "continuous": "wrestling",
+            "present": "wrestle",
+            "past": "wrestled"
+        },
+        {
+            "continuous": "wriggling",
+            "present": "wriggle",
+            "past": "wriggled"
+        },
+        {
+            "continuous": "xing",
+            "present": "x-ray",
+            "past": "x-rayed"
+        },
+        {
+            "continuous": "yawning",
+            "present": "yawn",
+            "past": "yawned"
+        },
+        {
+            "continuous": "yelling",
+            "present": "yell",
+            "past": "yelled"
+        },
+        {
+            "continuous": "ziping",
+            "present": "zip",
+            "past": "zipped"
+        },
+        {
+            "continuous": "zooming",
+            "present": "zoom",
+            "past": "zoomed"
+        }
+    ]
+}
